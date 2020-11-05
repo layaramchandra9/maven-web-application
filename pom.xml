@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://ec2-35-174-207-2.compute-1.amazonaws.com:8081/repository/jenkinsmavenrepo/</url>
+	      <url>http://54.227.86.3:8081/repository/pipelineRepository/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.15.15.47:9980/mithuntechnologies/repository/wallmart-snapshots/</url>
+	      <url>http://54.227.86.3:8081/repository/pipelineSnapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
